@@ -1,5 +1,5 @@
 # Hi I'm Abubakar Arab 👋
-[![Linkedin Badge](https://img.shields.io/badge/-abubakar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abubakar-arab-ba02a5194)](https://www.linkedin.com/in/abubakar-arab-ba02a5194)
+[![Linkedin Badge](https://img.shields.io/badge/-abubakar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abubakar-arab-ba02a5194)](https://www.linkedin.com/in/abubakar-arab)
 [![Website Badge](https://img.shields.io/badge/-abubakar.arab-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://abubakar-arab.netlify.app)](https://abubakar-arab.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-abubakararab123-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abubakararab123@gmail.com)](mailto:abubakararab123@gmail.com)
 
